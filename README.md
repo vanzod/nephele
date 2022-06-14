@@ -11,7 +11,7 @@ apt install -y ./*.deb
 
 ### Install terraform
 ```bash
-curl -fSsL https://releases.hashicorp.com/terraform/1.1.4/terraform_1.1.4_windows_amd64.zip | zcat > /usr/local/bin/terraform
+curl -fSsL https://releases.hashicorp.com/terraform/1.2.2/terraform_1.2.2_linux_amd64.zip | zcat > /usr/local/bin/terraform
 chmod +x /usr/local/bin/terraform
 ```
 
